@@ -4,4 +4,4 @@ This is new text.
 Just some updates.
 Trouble
 Some new text.
-I hope this isn't much of a problem.
+Just some text.
