@@ -4,5 +4,9 @@ This is new text.
 Just some updates.
 Trouble
 Some new text.
+<<<<<<< HEAD
+This is a issue.
+=======
 Something new
 
+>>>>>>> very-bad
